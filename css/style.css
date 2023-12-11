@@ -28,6 +28,10 @@ body
 {
     box-sizing: border-box;
 }
+h3
+{
+    color: var(--text-black-900);
+}
 ul
 {
     list-style: none;
@@ -233,6 +237,7 @@ h3.hello span
     font-size: 30px;
     font-weight: 700;
     color: var(--skin-color);
+    margin-left: 5px;
 }
 h3.my-profession
 {
